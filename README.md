@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @waffbboy 
-- 👀 Fascinated about Javascript and open to machine learning 💻.
-- 📫 How to reach me waffboyJ@gmail.com
+- 👀 Fascinated about machine learning and Artificial Intelligence.
+- 📫 You can reach me via mail: waffboyJ@gmail.com
+- You alo reach me via linkedln: www.linkedin.com/in/ogheneochuko-akporehe-7a9451249
+
 
 <!---
 waffbboy/waffbboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
